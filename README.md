@@ -3,4 +3,4 @@ Cryptic is a modern real-world Web 3.0 Blockchain Application with a fully respo
 
 Live Site : https://cryptic-web3.netlify.app/
 
-![Optional Text](C:\Users\fesal naguji\Desktop\Cryptic\screenshot\screenshot1.png)
+![Screenshot](front-end/images/Screenshot1.png)
